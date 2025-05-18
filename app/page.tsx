@@ -3,12 +3,10 @@ import './globals.css'
 import { Features } from "./components/Features";
 import { Testimonials } from "./components/Testimonials";
 import { CTA } from "./components/Cta";
-import { CreatorShowcase } from "./components/CreatorSection";
 import Navbar from "./components/Navbar";
 import Pricing from "./components/Pricing";
 import FaqSection from "./components/FaqSection";
 import Footer from "./components/Footer";
-import Testt from "./components/Testt";
 
 
 

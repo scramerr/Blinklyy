@@ -3,7 +3,6 @@
 import { motion } from 'framer-motion'
 import { Star } from 'lucide-react'
 import { SparklesCore } from './effects/SparklesCore'
-import { StarsField } from './effects/StarField'
 
 export default function Hero() {
   return (
