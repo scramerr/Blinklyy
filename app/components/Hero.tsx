@@ -31,7 +31,7 @@ export default function Hero() {
 
       {/* Hero content */}
       <motion.h1
-        className="relative z-10 lg:text-8xl text-5xl md:text-6xl font-extrabold leading-tight mb-4"
+        className="relative z-10 lg:text-8xl text-5xl md:text-7xl font-extrabold leading-tight mb-4"
         initial={{ opacity: 0, y: 30 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.6 }}
@@ -39,7 +39,7 @@ export default function Hero() {
         Make Your <span className="text-pink-500">Bio Blink!</span>
       </motion.h1>
       <motion.p
-        className="relative z-10 text-2xl font-bold md:text-xl text-gray-500 dark:text-gray-300 mb-8 max-w-xl"
+        className="relative z-10 text-2xl font-bold md:text-1xl text-gray-500 dark:text-gray-300 mb-8 max-w-xl"
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ delay: 0.2 }}
